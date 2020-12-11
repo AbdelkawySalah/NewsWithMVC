@@ -1,0 +1,6 @@
+page login
+http://news.test/user/login
+username:
+ahmed@yahoo.com
+password
+123
